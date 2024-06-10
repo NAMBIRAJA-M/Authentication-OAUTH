@@ -24,36 +24,36 @@ GOOGLE_CLIENT_ID=your-google-client-id
 GOOGLE_CLIENT_SECRET=your-google-client-secret
 GOOGLE_CALLBACK_URL=http://localhost:3000/auth/google/callback
 ```
-3. Usage
+## Usage
 
-To start the application, run:
+1. To start the application, run:
   ```sh
 node index.js
 ```
 
-Contributing
+## Contributing
 
-Fork the repository.
+* Fork the repository.
 
-Create a new branch (git checkout -b feature-branch).
-
-
-Make your changes.
-
-Commit your changes (git commit -m 'Add some feature').
-
-Push to the branch (git push origin feature-branch).
-
-Open a pull request.
+* Create a new branch (git checkout -b feature-branch).
 
 
-Acknowledgements
+* Make your changes.
 
-Node.js
+* Commit your changes (git commit -m 'Add some feature').
 
-Express
+* Push to the branch (git push origin feature-branch).
 
-Passport.js
+* Open a pull request.
 
-dotenv
+
+## Acknowledgements
+
+* Node.js
+
+* Express
+
+* Passport.js
+
+* dotenv
 
